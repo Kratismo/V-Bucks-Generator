@@ -1,0 +1,1 @@
+If you cannot run this file, install python and use pip to install smtplib, time, os and random.
